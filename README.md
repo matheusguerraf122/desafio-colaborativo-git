@@ -19,3 +19,9 @@ Meu nome é Guilherme Menezes, sou estudante de Análise e Desenvolvimento de Si
 
 Meu nome é Gabriel Borges, sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo Git e GitHub.
 
+## Linguagens aprendidas
+
+- HTML
+- CSS
+- JavaScript
+- C
