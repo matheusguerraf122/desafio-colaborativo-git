@@ -17,5 +17,11 @@ Meu nome é Arthur Hansel, sou estudante de Análise e Desenvolvimento de Sistem
 
 Meu nome é Guilherme Menezes, sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo Git e GitHub.
 
-Meu nome é Gabriel, sou estudante de Engenharia de Software e estou aprendendo Git e GitHub.
+Meu nome é Gabriel Borges, sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo Git e GitHub.
 
+## Linguagens aprendidas
+
+- HTML
+- CSS
+- JavaScript
+- C
