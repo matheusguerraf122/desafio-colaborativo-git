@@ -2,12 +2,12 @@
 
 ## Redes sociais
 
-| Integrante | GitHub | 
-|---|---|
-| Arthur | arthurhansel2002 |
-| Matheus | matheusguerraf122 | 
-| Gabriel | borgesx07 | 
-| Guilherme | guilhermemenezes03 | 
+|Integrante|GitHub|
+|-|-|
+|Arthur|arthurhansel2002|
+|Matheus|matheusguerraf122|
+|Gabriel|borgesx07|
+|Guilherme|guilhermemenezes03|
 
 ## Apresentação
 
@@ -17,7 +17,7 @@ Meu nome é Arthur Hansel, sou estudante de Análise e Desenvolvimento de Sistem
 
 Meu nome é Guilherme Menezes, sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo Git e GitHub.
 
-Meu nome é Gabriel Borges, sou estudante de Análise e Desenvolvimento de Sistemas e estou aprendendo Git e GitHub.
+Meu nome é Gabel sou estudante de Análise e Desenvolvimento de Sistemas e estouendo Git e GitHu.
 
 ## Linguagens aprendidas
 
